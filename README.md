@@ -17,10 +17,14 @@
   </ul>
 
   <h2>Screenshots</h2>
+  <div style={{
+    display="flex",
+    flex-direction:"row"    }}>
   <img src="https://res.cloudinary.com/dqki29mbg/image/upload/v1719774541/kt4gjibrzlw728ksxslb.jpg" alt="Screenshot 1" width="300" height="600">
   <img src="https://res.cloudinary.com/dqki29mbg/image/upload/v1719774541/bvjzqqh7pvv9nzicnr4n.jpg" alt="Screenshot 2" width="300" height="600">
   <img src="https://res.cloudinary.com/dqki29mbg/image/upload/v1719774541/njy5gwackszrvqwoqgvj.jpg" alt="Screenshot 3" width="300" height="600">
-
+</div>
+  
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:
