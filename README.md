@@ -3,15 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* CSS for images */
-    img {
-      display: block;
-      margin-bottom: 20px; /* Adjust margin as needed */
-      max-width: 100%; /* Ensure images are responsive */
-      height: auto; /* Maintain aspect ratio */
-    }
-  </style>
 </head>
 <body>
   <h1>CryptoPriceX</h1>
