@@ -17,8 +17,10 @@
   </ul>
 
   <h2>Screenshots</h2>
-  <img src="/path/to/screenshot1.png" alt="Screenshot 1">
-  <img src="/path/to/screenshot2.png" alt="Screenshot 2">
+ <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Screenshot 1">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Screenshot 2">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Screenshot 3">
+  
 
   <h2>Installation</h2>
   <ol>
