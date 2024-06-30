@@ -3,6 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* CSS for images */
+    img {
+      display: block;
+      margin-bottom: 20px; /* Adjust margin as needed */
+      max-width: 100%; /* Ensure images are responsive */
+      height: auto; /* Maintain aspect ratio */
+    }
+  </style>
 </head>
 <body>
   <h1>CryptoPriceX</h1>
@@ -17,10 +26,9 @@
   </ul>
 
   <h2>Screenshots</h2>
- <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Screenshot 1">
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Screenshot 2">
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Screenshot 3">
-  
+  <img src="https://res.cloudinary.com/dqki29mbg/image/upload/v1719774541/kt4gjibrzlw728ksxslb.jpg" alt="Screenshot 1" width="300" height="600">
+  <img src="https://res.cloudinary.com/dqki29mbg/image/upload/v1719774541/bvjzqqh7pvv9nzicnr4n.jpg" alt="Screenshot 2" width="300" height="600">
+  <img src="https://res.cloudinary.com/dqki29mbg/image/upload/v1719774541/njy5gwackszrvqwoqgvj.jpg" alt="Screenshot 3" width="300" height="600">
 
   <h2>Installation</h2>
   <ol>
@@ -55,7 +63,6 @@
       <br><code>git push origin feature/AmazingFeature</code></li>
     <li>Submit a pull request.</li>
   </ol>
-
 
   <p>Project Link: <a href="https://github.com/yourusername/cryptopriceX">https://github.com/yourusername/cryptopriceX</a></p>
 </body>
