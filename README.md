@@ -39,7 +39,6 @@
   <ul>
     <li>React Native</li>
     <li>TypeScript</li>
-    <li>[Other relevant technologies used]</li>
   </ul>
 
   <h2>Contributing</h2>
