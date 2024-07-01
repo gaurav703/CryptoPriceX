@@ -28,9 +28,9 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:
-      <br><code>git clone https://github.com/yourusername/cryptopriceX.git</code></li>
+      <br><code>git clone https://github.com/gaurav703/CryptoApp.git</code></li>
     <li>Navigate into the project directory:
-      <br><code>cd cryptopriceX</code></li>
+      <br><code>cd CryptoApp</code></li>
     <li>Install dependencies:
       <br><code>npm install</code></li>
     <li>Run the app:
@@ -46,19 +46,6 @@
     <li>TypeScript</li>
   </ul>
 
-  <h2>Contributing</h2>
-  <p>Contributions are welcome! Please follow these steps:</p>
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create your feature branch:
-      <br><code>git checkout -b feature/AmazingFeature</code></li>
-    <li>Commit your changes:
-      <br><code>git commit -am 'Add some AmazingFeature'</code></li>
-    <li>Push to the branch:
-      <br><code>git push origin feature/AmazingFeature</code></li>
-    <li>Submit a pull request.</li>
-  </ol>
-
-  <p>Project Link: <a href="https://github.com/yourusername/cryptopriceX">https://github.com/yourusername/cryptopriceX</a></p>
+  
 </body>
 </html>
