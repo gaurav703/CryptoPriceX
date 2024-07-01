@@ -28,9 +28,9 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:
-      <br><code>git clone https://github.com/gaurav703/CryptoApp.git</code></li>
+      <br><code>git clone https://github.com/gaurav703/CryptoPriceX.git</code></li>
     <li>Navigate into the project directory:
-      <br><code>cd CryptoApp</code></li>
+      <br><code>cd CryptoPriceX</code></li>
     <li>Install dependencies:
       <br><code>npm install</code></li>
     <li>Run the app:
